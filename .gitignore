@@ -1,0 +1,6 @@
+venv
+*.log
+.idea/
+public/*.xls
+public/*.xlsx
+!public/computer_jd_example.xlsx
