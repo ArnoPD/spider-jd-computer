@@ -1,5 +1,5 @@
 # 目录
-* [App \& Package](#App\ \&\ Package)
+* [App&Package](#App&Package)
 * [运行](#运行)
 * [遇到的问题](#遇到的问题)
 * [结果示例](#结果示例)
@@ -7,7 +7,7 @@
 # spider-jd-computer
 爬取京东电脑类目并提取定义的电脑硬件参数帮助选购
 
-## App & Package
+## App&Package
 - Python 3.7（其他未经测试）
 - FireFox
 - geckodriver（FireFox的web driver）
